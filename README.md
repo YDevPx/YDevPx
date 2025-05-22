@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-![Banner de ejemplo](https://via.placeholder.com/800x200/222/fff?text=YdevPx+Portfolio) *(reemplaza con tu imagen)*  
+// ![Banner de ejemplo](https://via.placeholder.com/800x200/222/fff?text=YdevPx+Portfolio) *(reemplaza con tu imagen)*  
 
 ## 🔧 **Tecnologías**  
 
