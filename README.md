@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-// ![Banner de ejemplo](https://via.placeholder.com/800x200/222/fff?text=YdevPx+Portfolio) *(reemplaza con tu imagen)*  
-
 ## 🔧 **Tecnologías**  
 
 ### 🖥️ **3D & Diseño**  
@@ -28,8 +26,6 @@
 ## 🚀 **Mis Productos**  
 *"Diseño, prototipo y vendo"* — Proyectos en **Kickstarter** y otras plataformas.  
 
-![Proyecto 1](https://via.placeholder.com/400x200/444/fff?text=Product+1)  
-*(Imagen de tu producto o prototipo)*  
 
 ---
 
