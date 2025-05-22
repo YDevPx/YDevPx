@@ -26,11 +26,3 @@
 ## 🚀 **Mis Productos**  
 *"Diseño, prototipo y vendo"* — Proyectos en **Kickstarter** y otras plataformas.  
 
-
----
-
-<p align="center">
-  <a href="mailto:tu_email@ejemplo.com">
-    <img src="https://img.shields.io/badge/-Contacto-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
